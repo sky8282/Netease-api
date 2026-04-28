@@ -1,6 +1,4 @@
 # Netease-api
-# 🎵 Netease Subsonic Bridge (网易云元数据极速桥接 API)
-
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.68%2B-009688)
 ![License](https://img.shields.io/badge/license-MIT-green)
