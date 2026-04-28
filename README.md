@@ -48,5 +48,5 @@ album= 专辑名<br>
 * 传入 "歌手名与曲目名"<br>
 song_name= 曲目名<br>
 singer_name= 歌手名<br>
-示例：https://163.kimu.edu.kg/api/comment/list?song_name=喜欢你&singer_name=邓紫棋<br>
+示例：https://163.kimu.edu.kg/api/comment/list?song_name=夜曲&singer_name=周杰伦<br>
 
