@@ -21,7 +21,7 @@ pip3 install -r requirements.txt --break-system-packages
 ```bash
 python3 main.py
 ```
-📡 API 说明：<br>
+## 📡 API 说明：<br>
 提供以下 API 供第三方播放器调用：<br>
 1. 歌手头像获取	  /api/artist/avatar	GET
 示例：http://127.0.0.1:8800/api/artist/avatar?name=周杰伦<br>
