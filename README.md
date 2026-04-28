@@ -23,14 +23,14 @@ python3 main.py
 ```
 ## 📡 API 说明：<br>
 提供以下 API 供第三方播放器调用：<br>
-1. 歌手头像获取	  /api/artist/avatar	GET
+1. 歌手头像获取	  /api/artist/avatar	GET<br>
 示例：http://127.0.0.1:8800/api/artist/avatar?name=周杰伦<br>
 
 2. 专辑封面	    /api/album/cover	  GET<br>
 album= 专辑名称<br>
 artist= 歌手名称<br>
 示例：http://127.0.0.1:8800/api/album/cover?album=11月的萧邦&artist=周杰伦<br>
-* 传入 "歌手名 - 专辑名"（例如 周杰伦 - 11月的萧邦）<br>
+<br>* 传入 "歌手名 - 专辑名"（例如 周杰伦 - 11月的萧邦）<br>
 示例：http://127.0.0.1:8800/api/album/cover?album=周杰伦 - 11月的萧邦<br>
 
 3. 歌词搜索      /api/lyric	        GET/POST<br>
