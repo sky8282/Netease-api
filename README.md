@@ -5,14 +5,14 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.68%2B-009688)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-为 Subsonic 协议客户端（如 **DS Cloud**、**Amcfy 箭头音乐**、**Feishin**等）打造的超轻量级 API 桥接服务。
+为 Subsonic 协议客户端（如 **DS Cloud**、**Amcfy 箭头音乐**、**Feishin** 等）打造的轻量级 API 桥接服务<br>
 提供：网易云音乐的 歌手头像、专辑封面、双语歌词、曲目评论
 
 ## 🛠️ 安装与部署
 ### 1. 环境准备
-确保你的服务器或电脑已安装 **Python 3.8** 或以上版本。
+确保你的服务器或电脑已安装 **Python 3.8** 或以上版本
 ### 2. 获取代码
-将本仓库克隆到本地执行：
+将本仓库克隆或者下载到本地执行：
 1. 安装依赖：
 ```bash
 pip3 install -r requirements.txt --break-system-packages
