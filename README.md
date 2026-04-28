@@ -5,7 +5,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.68%2B-009688)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-为 Subsonic 协议客户端（如 **Amcfy 箭头音乐**、**Feishin**、**DS Cloud** 等）打造的超轻量级 API 桥接服务。
+为 Subsonic 协议客户端（如 **DS Cloud**、**Amcfy 箭头音乐**、**Feishin**等）打造的超轻量级 API 桥接服务。
 提供：网易云音乐的 歌手头像、专辑封面、双语歌词、曲目评论
 
 ## 🛠️ 安装与部署
